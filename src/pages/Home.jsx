@@ -19,7 +19,7 @@ function Home() {
       {/* Hero Session */}
       <div className='bg-orange-100 text-center h-svh pt-45 space-y-3'>
           <h3>New Collection</h3>
-          <h1 className='font-bold text-4xl'>Luxury Without Labels</h1>
+          <h1 className='font-bold text-4xl'>Test Update</h1>
           <p>Explore new-in product and best sellers</p>
           <button className='bg-orange-600 rounded-md px-4 py-2 hover:bg-amber-500 text-white'>View Collection</button>
         </div>
